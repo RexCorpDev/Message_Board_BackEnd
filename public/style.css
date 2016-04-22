@@ -1,0 +1,100 @@
+body, a.btn.header {
+  font-family: Roboto;
+  background-color: #464646;
+  color: #cfcfcf;
+}
+
+.header.title-bar {
+  height: 110px;
+  background-color: black;
+}
+
+.container-fluid {
+  margin-top: 15px;
+}
+
+.col-lg-6 {
+  margin-left: 25%;
+}
+
+a.btn.header{
+  margin-top: 30px;
+  background-color: black;
+}
+
+a.btn.header {
+  background-color: #cfcfcf !important
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+body.jumbotron > h1, body.jumbotron {
+  text-align: center;
+  color: #cfcfcf;
+  background-color: #464646;
+}
+
+table {
+  float: inline;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td.content {
+  display: center-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a.navbar-brand {
+  color: #cfcfcf;
+}
+
+
+div.navbar-header {
+  background-color: #909090;
+}
+
+h1 {
+  color: #cfcfcf;
+}
+
+img {
+  margin-right: 15px;
+  height: 150px;
+  width: 150px;
+}
+
+div.center-block {
+  text-align: center;
+}
+
+.btn-inverse {
+  background-color: #cfcfcf !important;
+  color: #000000 !important;
+  font-weight: bold;
+}
+
+.btn-default, {
+  font-weight: bold;
+}
+
+.btn-primary {
+  border-radius: 1%;
+  background-color: #080a11 !important;
+  color: #f4f4f4 !important;
+  border-color: #636363 !important
+}
+
+.panel-body {
+  background-blend-mode: color-dodge;
+  background-color: #2f2f2f;
+}
+
+h3 {
+  color: #000000;
+}
+
+form {
+  color: #000000;
+}
